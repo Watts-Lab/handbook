@@ -4,8 +4,7 @@ These are the ones in 3401 Walnut 4th floor C-wing
 - Color: 158.130.38.161
 
 ## Conference rooms
-You can check their availability online using a Penn email address, and email me to make or change a reservation. 
-- 3401 Walnut 417B: https://calendar.google.com/calendar?cid=c2Vhcy51cGVubi5lZHVfaDc2dWtyNTZiMnFzNDFmOGNqMnJkaXBmZThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
+You can check their availability online using a Penn email address, and email Lily Hoot to reserve. 
 - 3401 Walnut 452C: https://calendar.google.com/calendar?cid=c2Vhcy51cGVubi5lZHVfanA4bjBkbTNyMTU0cnRxcGk1ZGdncWx1ZDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
 
 ## Resources for research
