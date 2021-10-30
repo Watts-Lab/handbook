@@ -2,7 +2,7 @@
 Unsatisfactory responses to HITs are often due to poor instructions or design. Instructions should be very detailed, but also easy to hide or skipped over, so familiar workers aren't frustrated or slowed by repeatedly interacting with information they already know. 
 
 ## HIT Payments
-**At a minimum  pay $15/hour to the median worker.**[^fairwork] One low-effort way to do this is by leveraging [Fair Work](https://fairwork.stanford.edu), which will calculate the completion time for a HIT and bonus workers up to the correct rate if needed the next day. Enable this by adding the following tag to the HTML of a HIT:
+**Pay, at a minimum, $15/hour to the median worker.**[^fairwork] One low-effort way to do this is by leveraging [Fair Work](https://fairwork.stanford.edu), which will calculate the completion time for a HIT and bonus workers up to the correct rate if needed the next day. Enable this by adding the following tag to the HTML of a HIT:
 
 ```html
 <script src="https://fairwork.stanford.edu/fairwork.js?aws_account=088838630371"></script>
