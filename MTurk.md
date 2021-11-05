@@ -16,5 +16,5 @@ Worker emails should be automatically forwarded to our internal worker communica
 
 1. **Respectfully reply to all worker emails** and try to do it within 24 hours.
 2. When replying, `reply all` so that everyone on our list knows the issue has been handled.
-3. If the discussion continues, stop replying all, so as to avoid overloading our inboxes. 
+3. If the discussion continues, adjust the recipients to avoid overloading inboxes.
 4. Communicate respectfully and without jargon.
