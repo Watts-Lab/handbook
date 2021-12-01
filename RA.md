@@ -10,7 +10,7 @@ Research Assistants are integral members of many research projects at the lab. G
 - Expected timeline/duration and hourly commitment per week e.g. How long do you expect the task(s) to take?  
 
 ## RA Hiring
-1. **Request** - Research leads makes request for RA. See section on [requesting RA](requesting-research-assistance)
+1. **Request** - Research leads makes request for RA. See section on [requesting RA](#requesting-research-assistance).
 
 ### New RA
 2. **Written Application** - Applicants complete the [application](https://upenn.co1.qualtrics.com/jfe/form/SV_00AS9HoBXLrqWJ8). If applicant demonstrates interest in lab and has requisite skills on paper, ROM reaches out to schedule a chat/informal interview.
