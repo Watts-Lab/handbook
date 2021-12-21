@@ -5,7 +5,7 @@ Attached is your AWS credentials. Attached within the credentials are the userna
 The password policy when they ask you to change the password is the following:
 If you need to reset your password, here’s the rules:
 
--   Minimum password length of 8 characters and a maximum length of 128 characters
+-   <span style="color:yellow">Minimum password length of 8 characters and a maximum length of 128 characters</span>
 -   Minimum of three of the following mix of character types: uppercase, lowercase, numbers, and ! @ # $ % ^ & * ( ) _ + - = [ ] { } | ' symbols
 -   Not be identical to your AWS account name or email address
     
