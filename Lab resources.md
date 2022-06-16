@@ -5,10 +5,11 @@ These are the ones in 3401 Walnut 4th floor C-wing
 
 ## Conference rooms
 You can check their availability online using a Penn email address, and email Lily Hoot to reserve. 
-- 3401 Walnut 452C: https://calendar.google.com/calendar?cid=c2Vhcy51cGVubi5lZHVfanA4bjBkbTNyMTU0cnRxcGk1ZGdncWx1ZDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
+- 3401 Walnut 452C. You can look at the [calendar for this room](https://calendar.google.com/calendar?cid=c2Vhcy51cGVubi5lZHVfanA4bjBkbTNyMTU0cnRxcGk1ZGdncWx1ZDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 ## Resources for research
-Library search — the fastest way to search books is to do it directly through borrow direct, as it will search both Penn and all the affiliated libraries — [Borrow Direct](https://bd.relaisd2d.com/?LS=PENN&PI=70314880)
+### Library
+the fastest way to search books is to do it directly through borrow direct, as it will search both Penn and all the affiliated libraries — [Borrow Direct](https://bd.relaisd2d.com/?LS=PENN&PI=70314880)
 
 Seminars and mailing lists
 - https://lists.seas.upenn.edu/mailman/listinfo/clunch
