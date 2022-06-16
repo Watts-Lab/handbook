@@ -1,7 +1,7 @@
 # CSSL Handbook
 
 ## Contributing
-This is a living document crafted over time. If you see a typo or have an idea for a change or improvement, please make a pull request to help us make this better!
+This is a living document crafted over time. If you see a typo or have an idea for a change or improvement, please make a pull request to help us make this better! If you think something should exist here, but don't know how to get started with a draft, you can also add issue to start that discussion.
 
 ## Examples of other similar efforts
 1. [Basecamp's handbook](https://github.com/basecamp/handbook)
