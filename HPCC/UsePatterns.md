@@ -29,10 +29,12 @@ The Wharton School HPC Cluster is a 32-node, 512-core Linux cluster environment 
 
 ## General Use
 
+These are general guidelines I use when using HPCC for 
+
 **Logging Into HPCC Outside Penn Network: VPN**
 - [guide from Wharton](https://support.wharton.upenn.edu/help/wharton-vpn#connecting-to-the-vpn)
 
-**Using the Head Node via `qlogin`**
+**Using the Head Node via `qlogin`. This is for interactive development, not for large jobs**
 - `ssh mriv@hpcc.wharton.upenn.edu`
 - `qlogin -now no`
 - `python -m venv myvenv`  --> to create a new virtual env
@@ -44,23 +46,27 @@ The Wharton School HPC Cluster is a 32-node, 512-core Linux cluster environment 
 - create requirements.txt file for virtual env
 - `pip install -r requirements.txt`
 
-**authenticate AWS**
-- `alias aws-login-pennmap="aws-federated-auth --account 088838630371 --user mriv;export AWS_PROFILE=aws-seas-wattslab-acct-PennAccountAdministrator"`
+**authenticate AWS Access:**
+- Example command:
+    - `alias aws-login-pennmap="aws-federated-auth --account 088838630371 --user mriv;export AWS_PROFILE=aws-seas-wattslab-acct-PennAccountAdministrator"`
 
 **Running Jupyter when connected via VPN**
 - ask Wharton Support to set up port forwarding on your HPCC environment
 Follow these steps:
 - follow General `qlogin` steps above 
 - `jupyter lab &`
-- Open another terminal window on your local computer and copy / paste the ssh tunnel command from the output from above (below is just an example, it won't work for you):
-    -  `ssh mriv@hpcc.wharton.upenn.edu -f -N -L 47686:hpcc019:47686`
-- Then open a local browser and copy / paste the 127.0.0.1 URL from the output from the 'jupyter lab' command, similar (but not the same!) as the example below:
-    - http://127.0.0.1:47686/lab?token=41a0db54573edaf50e661b3a88894dbe28c4db9003f
+    - Open another terminal window on your local computer and copy / paste the ssh tunnel command from the output from above (below is just an example, it won't work for you):
+        -  `ssh mriv@hpcc.wharton.upenn.edu -f -N -L 47686:hpcc019:47686`
+    - Then open a local browser and copy / paste the 127.0.0.1 URL from the output from the 'jupyter lab' command, similar (but not the same!) as the example below:
+        - `http://127.0.0.1:47686/lab?token=41a0db54573edaf50e661b3a88894dbe28c4db9003f`
 
 
-**Submitting Jobs**
+**Submitting Jobs:**
 - [Wharton Best Practices](https://research-it.wharton.upenn.edu/documentation/programming-best-practices/)
 - write module ("demo.py") that will execute upon being invoked via `python demo.py`
 - write submission script, `demo.sh` that simply contains the `python demo.py` command
 - submit to the cluster with `qsub demo.sh`
 - output will be in the same directory as demo.sh
+- check on submitted job status:
+    - qstat: displays the status of the HPCC queues, by default displaying your job information. It includes running and queued jobs
+    - [See Wharton Documentation](https://research-it.wharton.upenn.edu/documentation/job-management/)
