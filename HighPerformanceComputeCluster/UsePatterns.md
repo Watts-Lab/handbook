@@ -37,7 +37,7 @@ These are general guidelines I use when using HPCC for
 **Using the Head Node via `qlogin`. This is for interactive development, not for large jobs**
 - `ssh mriv@hpcc.wharton.upenn.edu`
 - `qlogin -now no`
-- `python -m venv myvenv`  --> to create a new virtual env
+- `python -m venv myvenv` --> to create a new virtual env
 - `module load python/python-3.9.6` --> Setting default Python version
 - `module load gcc/gcc-11.1.0`
 - `source myenv0/bin/activate` --> given 'myenv0' is your venv
