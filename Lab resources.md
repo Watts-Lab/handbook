@@ -9,16 +9,16 @@ You can check their availability online using a Penn email address, and email Li
 
 ## Resources for research
 ### Library
-the fastest way to search books is to do it directly through borrow direct, as it will search both Penn and all the affiliated libraries — [Borrow Direct](https://bd.relaisd2d.com/?LS=PENN&PI=70314880)
+- [Borrow Direct](https://upenn-borrowdirect.reshare.indexdata.com/) is fastest way to search books — it searchs both Penn and all the affiliated librarie.
 
 Seminars and mailing lists
-- https://lists.seas.upenn.edu/mailman/listinfo/clunch
-- https://warrencenter.upenn.edu/get-involved
+- [CLunch](https://lists.seas.upenn.edu/mailman/listinfo/clunch)
+- [Warren center](https://warrencenter.upenn.edu/get-involved)
 - https://knowledge.wharton.upenn.edu 
 - https://www.asc.upenn.edu/news-events/events 
-- https://oid.wharton.upenn.edu/department-information/seminars-conferences/
+- [OID Seminars](https://oid.wharton.upenn.edu/department-information/seminars-conferences/)
 - https://priml.upenn.edu/events-and-seminars/
-- http://theory.cis.upenn.edu/seminar/
+- [CS Theroy](http://theory.cis.upenn.edu/seminar/)
 - https://web.sas.upenn.edu/lcs/news-events/ilst-seminar/
 - Email staggdb@wharton.upenn.edu to get on the wharton-research-seminars list. (If you have a wharton affiliation you can also do this yourself here)
 - https://sociology.sas.upenn.edu/events
