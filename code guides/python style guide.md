@@ -1,5 +1,5 @@
 # Python Style Guide
-Attached are some of the best practices, tips, and tricks for writing great Python code that’s reusable and maintainable. I’ve perused some of the best sources on the Internet for Python documentation guidelines and hope that this guide adds value and makes your Python code that much more clean. Please let me know how I can enhance and improve this guide and whether it’s valuable. Please contact Yingquan at yli12313@seas.upenn.edu if there’s any questions, concerns or just general inquiry. 
+Attached are some of the best practices, tips, and tricks for writing great Python code that’s reusable and maintainable. I’ve perused some of the best sources on the Internet for Python documentation guidelines and hope that this guide adds value and makes your Python code that much more clean. Please let me know how I can enhance and improve this guide and whether it’s valuable.
 
 ## TL;DR
 If you read nothing else, please read this section.
@@ -13,7 +13,7 @@ The following material includes some tips and best practices for documenting Pyt
  will want to document it well and use it for the future.
 Please see the coding sample as a example of what a well-documented script looks like:
 
-[documented_script_example_20210909.py](documented_script_example_20210909.py)
+[python_example.py](python_example.py)
 
 ## Guiding Philosophy to Writing Good Python Code
 ● Please keep some of these following first principles in mind as you are developing Python scripts, functions, projects, etc. Python code should always be written with the mindset that: “Simple is better than complex” and “Sparse is better than dense.”
